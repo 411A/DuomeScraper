@@ -4,10 +4,9 @@
 </center>
 This project scrapes the Italian words from the Duome website (https://duome.eu/vocabulary/en/it) using Playwright, then it downloads phonetics from GoogleTextToSpeech (gTTS) &amp; creates Anki flashcards.
 
-# 🔰
 <details>
   <summary>
-    <b>How to run</b>
+    <b><h3>🔰</h3>How to run</b>
   </summary>
 
   <ol start="0">
