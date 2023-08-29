@@ -5,6 +5,10 @@
 
 This project scrapes the Italian words (& any other languages available on Duolingo) from the Duome website (https://duome.eu/vocabulary/en/it) using Playwright, then it downloads phonetics from GoogleTextToSpeech (gTTS) & creates Anki flashcards.
 
+
+
+https://github.com/411A/DuomeScraper/assets/13054619/959fcb05-f63d-4b61-b867-1ef31d19aa87
+
 <details>
   <summary>
     <b><h3>🔰</h3>How to run</b>
@@ -36,7 +40,12 @@ This project scrapes the Italian words (& any other languages available on Duoli
     <pre><code>playwright install &amp;&amp; playwright install msedge
     </code></pre>
   </li>
-  <li>Read the code, you may need to personalize some variables, then run the <code>main.py</code></li>
+  <li>Read the code, you may need to personalize some variables, then run the <code>main.py</code> & wait to get the final <code>.apkg</code> file</li>
+  <li>
+    Open Anki application...<br>
+    On Android: From top-right, click on <b>⋮</b> and select <b>Import</b> ➡️ <b>Deck package (.apkg)</b><br>
+    On Desktop: <b>File</b> ➡️ <b>Import...</b> ➡️ Choose .apkg file
+  </li>
 </ol>
 
 </details>
