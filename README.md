@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/W14rPY3b/Duolingo-In-Love-With-Anki.png" width="200" height="150">
 </center>
 
-This project scrapes the Italian words (& any other languages available on #Duolingo) from the Duome website (https://duome.eu/vocabulary/en/it) using #Playwright, then it downloads phonetics from GoogleTextToSpeech (#gTTS) & creates #Anki flashcards.
+This project scrapes the Italian words (& any other languages available on Duolingo) from the Duome website (https://duome.eu/vocabulary/en/it) using Playwright, then it downloads phonetics from GoogleTextToSpeech (gTTS) & creates Anki flashcards.
 
 <details>
   <summary>
