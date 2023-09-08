@@ -50,3 +50,7 @@ https://github.com/411A/DuomeScraper/assets/13054619/959fcb05-f63d-4b61-b867-1ef
 
 </details>
 
+##### ⚠️ Known (possible) issues
+- [ ] If all word elements didn't load all at once, we should scroll down to retrieve all the words. However, this feature has not been implemented yet, as the website displays all words at once (all necessary elements are visible after load).
+- [ ] Some languages, like German, don't have definitions. When accessing the definition element, an exception may be raised.
+
